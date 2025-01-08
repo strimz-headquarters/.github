@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/1817943293717602304/1724669186/1500x500" />
+<img src="https://pbs.twimg.com/profile_banners/1817943293717602304/1734882584/1500x500" />
 
 # Strimz
 
